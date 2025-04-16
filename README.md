@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Luboš – a passionate Frontend Developer with a focus on building clean and modern web applications.
-💻 I work primarily with JavaScript, TypeScript, React, Node.js, and Python.
-🚀 I’m aiming to grow into a full-stack software engineer and contribute to impactful products.
-🌱 I’m especially excited about startups, innovation, and solving real-world problems through code.
-
+👋 Hi, I'm Luboš – a passionate Frontend Developer with a focus on building clean and modern web applications.  
+💻 I work primarily with JavaScript, TypeScript, React, Node.js, and Python.  
+🚀 I’m aiming to grow into a full-stack software engineer and contribute to impactful products.  
+🌱 I’m especially excited about startups, innovation, and solving real-world problems through code.  
+  
 Let’s connect and build something great!
 
 # 💻 Tech Stack:
